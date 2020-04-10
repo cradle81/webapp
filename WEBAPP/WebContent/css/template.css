@@ -1,0 +1,39 @@
+html
+{
+	height: 100%;
+	width: 100%;
+}
+body
+{
+	height: 100%;
+	width: 100%;
+}
+h1,h2,h3,h4
+{
+	margin: auto;
+}
+#left
+{
+    float: left;    
+    padding: 10px;
+                  
+}
+#contents
+{   
+	border-left:3px solid gray;
+	float: left;
+    padding: 20px;    
+    height: 100%; 
+    width: 60%;
+    overflow: scroll;    
+}
+#middle
+{      
+    height: 70%;
+    width: 100%;
+}
+#footer
+{   	
+    clear: both;       
+    padding: 10px;        
+}
